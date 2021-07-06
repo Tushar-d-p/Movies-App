@@ -1,0 +1,26 @@
+.nav-class{
+    display: flex;
+    justify-content: space-around;
+    font-size:large;
+    font-weight:bolder;
+    background-color: brown;
+    margin-bottom: 5%;
+    color: white;
+
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    align-items: center;
+    margin: 5px;
+}
+.list li{
+     list-style: none;
+     text-decoration: none;
+     color: white;
+ }
+
+a{
+     text-decoration: none;
+ }
